@@ -1,124 +1,143 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:070B1A,35:312E81,70:6D28D9,100:0891B2&text=VISHAL%20R.&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Quantum%20AI%20%7C%20LLMs%20%7C%20Applied%20Intelligence&descAlignY=60&descSize=18" width="100%" alt="Vishal R. — Quantum AI, LLMs and Applied Intelligence"/>
+<img src="./assets/header-banner.svg" width="100%" alt="Vishal R. — Quantum AI, LLMs, multimodal systems and edge intelligence"/>
 
-<img src="./assets/quantum-llm-avatar.png" width="150" alt="Abstract quantum and LLM emblem, no human portrait"/>
+<img src="./assets/quantum-llm-emblem.svg" width="170" alt="Abstract quantum-LLM emblem: a Bloch sphere with a state vector, surrounded by orbital rings and attention-linked token nodes"/>
 
 <br/>
 
-<a href="https://github.com/vishtodev">
-  <img src="https://img.shields.io/badge/GitHub-vishtodev-111827?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/" >
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+**Vishal R.** &nbsp;·&nbsp; B.Tech Electronics & Communication Engineering &nbsp;·&nbsp; VIT Chennai
 
-<br/><br/>
+`Quantum ML` &nbsp; `LLMs` &nbsp; `Multimodal AI` &nbsp; `Computer Vision` &nbsp; `AI for Science` &nbsp; `Edge AI`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=ECE+%40+VIT+Chennai;Exploring+Quantum+Computing+%2B+LLMs;Researching+multimodal+and+edge+AI;Turning+curiosity+into+working+systems" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Exploring+quantum+computing+%2B+modern+AI;Studying+LLMs+and+multimodal+systems;Building+computer+vision+and+edge+AI+systems;Turning+research+ideas+into+working+code" alt="Animated introduction: exploring quantum computing and modern AI, studying LLMs and multimodal systems, building computer vision and edge AI systems"/>
 
 </div>
 
----
-
-<div align="center">
-
-### `RESEARCH × ENGINEERING × CURIOSITY`
-
-*Building intelligent systems at the intersection of AI, quantum computing, and the real world.*
-
-</div>
+<img src="./assets/section-divider.svg" width="100%" alt=""/>
 
 ## `01` — About
 
-```text
-Name       : Vishal R.
-Education  : B.Tech Electronics & Communication Engineering
-             VIT Chennai
-Interests  : Quantum AI • LLMs • Multimodal AI • Computer Vision
-```
+I'm an Electronics and Communication Engineering student at VIT Chennai, interested in what happens where quantum computing meets modern AI. I like building research-oriented systems that can be tested end to end: speech and vision models, sensor-driven data pipelines, and embedded prototypes.
 
-I'm an ECE student interested in understanding how intelligent models work—and building useful systems around them. My projects span speech and vision research, edge intelligence, and sensor-connected applications.
+My goal is to understand how these models work and to build practical systems around them, from segmentation networks to wearable hardware.
 
-- 🔭 Exploring **LLMs, quantum machine learning, and AI for science**
-- 🧪 Interested in research-led experimentation and reproducible evaluation
-- ⚡ Enjoy building systems that connect software, sensors, and the physical world
-- 🌱 Currently strengthening my foundations in quantum computing and modern language models
-
-## `02` — Focus areas
+## `02` — Research & technical interests
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 
-### ⚛️ Quantum Computing
+**Quantum computing**
 
-Quantum algorithms · QML · Qiskit
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 LLMs & Multimodal AI
-
-Transformers · Speech · RAG concepts
+Quantum algorithms · quantum machine learning · Qiskit
 
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 
-### ⚡ Applied / Edge AI
+**LLMs & multimodal AI**
 
-Computer Vision · IoT · Embedded ML
+Transformers · speech and language · multimodal learning
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Vision, science & edge**
+
+Computer vision · AI for science · embedded and edge AI
 
 </td>
 </tr>
 </table>
 </div>
 
-## `03` — Featured builds
+**Currently working on**
+
+- Deep learning for glacial lake segmentation from satellite imagery, as a research intern at the Centre for Cyber Physical Systems (CCPS), VIT Chennai
+- Emotion-aware speech recognition research, combining speech recognition with speech emotion recognition
+- Building foundations in quantum computing and modern language models
+
+<img src="./assets/section-divider.svg" width="100%" alt=""/>
+
+## `03` — Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ EmotionFusionNet
-**Speech Emotion Recognition**
+**EmotionFusionNet**<br/>
+<sub>Emotion-aware speech recognition</sub>
 
-A multi-stream SER architecture combining WavLM representations with acoustic and spectral features. Evaluated with speaker-independent splits.
+Research combining speech recognition with speech emotion recognition. Work in progress; no public repository yet.
 
-[↗ View project](https://github.com/vishtodev/Emotion_Aware_Speech_Recognition)
+`Speech AI` `Deep Learning` `Research`
+
+<!-- When the code is public, link it here: https://github.com/vishtodev/Emotion_Aware_Speech_Recognition (the repository is currently empty) -->
 
 </td>
 <td width="50%" valign="top">
 
-### 🌿 ToLCV Risk Framework
-**AgriTech · Forecasting**
+**ToLCV Risk Assessment**<br/>
+<sub>IoT-AI framework for crop-disease risk</sub>
 
-A sensor-driven framework for whitefly forecasting and Tomato Leaf Curl Virus risk assessment, with a wind-aware spatiotemporal modeling direction.
+Multi-node framework for whitefly propagation forecasting and Tomato Leaf Curl Virus risk assessment. Documents the data foundation: schemas, ingestion adapters, SQLite storage and temporal alignment, with forecasting milestones planned.
 
-[↗ View project](https://github.com/vishtodev/ToLCV-Risk-Assessment)
+`Python` `SQLAlchemy` `Raspberry Pi` `IoT`
+
+[View repository →](https://github.com/vishtodev/ToLCV-Risk-Assessment)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ Glacial Lake Segmentation
-**Remote Sensing · Deep Learning**
+**Glacial Lake Segmentation**<br/>
+<sub>Remote sensing · research internship</sub>
 
-Exploring segmentation approaches for glacial lake imagery using deep learning.
+Deep learning for glacial lake segmentation from satellite imagery, developed during a research internship at CCPS, VIT Chennai. Work in progress.
 
-[↗ View project](https://github.com/vishtodev/Glacial_lake_segmentation)
+`Remote Sensing` `Segmentation` `Deep Learning`
+
+<!-- Link the repository here once it is public: https://github.com/vishtodev/Glacial_lake_segmentation (not reachable without sign-in at the time of writing) -->
 
 </td>
 <td width="50%" valign="top">
 
-### 🪑 Smart Posture Tracker
-**Embedded Systems · BLE**
+**Smart Sitting Posture Tracker**<br/>
+<sub>Embedded systems · BLE · mobile app</sub>
 
-An ESP32 + MPU6050 wearable with a Flutter companion app for posture monitoring and feedback.
+A wearable posture monitor: an MPU6050 motion sensor on an ESP32 sends data over BLE to a Flutter app with sensitivity modes, weekly analytics and an XP-based reward system.
 
-[↗ View project](https://github.com/vishtodev/Smart-Sitting-Posture-Tracker)
+`ESP32` `BLE` `Flutter` `Embedded`
+
+[View repository →](https://github.com/vishtodev/Smart-Sitting-Posture-Tracker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**AI Driver Monitoring System**<br/>
+<sub>Real-time computer vision</sub>
+
+Detects phone use and eye closure with YOLOv8 and OpenCV, confirms alerts across multiple frames and tracks a running attention score.
+
+`Python` `OpenCV` `YOLOv8` `MediaPipe`
+
+[View repository →](https://github.com/vishtodev/AI-Driver-Monitoring-System)
+
+</td>
+<td width="50%" valign="top">
+
+**Building Segmentation with U-Net**<br/>
+<sub>Semantic segmentation · aerial imagery</sub>
+
+Custom U-Net in PyTorch for building segmentation on the Massachusetts Buildings Dataset, with Focal + Dice loss, mixed-precision training and IoU evaluation.
+
+`PyTorch` `U-Net` `Computer Vision` `Remote Sensing`
+
+[View repository →](https://github.com/vishtodev/Building-segmentation-using-U-Net-architecture-with-PyTorch)
 
 </td>
 </tr>
@@ -127,32 +146,32 @@ An ESP32 + MPU6050 wearable with a Flutter companion app for posture monitoring 
 <details>
 <summary><b>More projects</b></summary>
 
-- [AI Driver Monitoring System](https://github.com/vishtodev/AI-Driver-Monitoring-System) — computer vision for driver monitoring
-- [Building Segmentation with U-Net](https://github.com/vishtodev/Building-segmentation-using-U-Net-architecture-with-PyTorch) — semantic segmentation with PyTorch
-- [MechFlight](https://github.com/vishtodev/mechflight) — a pygame project
-- [Competitive Coding](https://github.com/vishtodev/Competitive-Coding) — coding practice and algorithms
+- [MechFlight](https://github.com/vishtodev/mechflight): a 2D side-scrolling action game in Python and Pygame with MySQL score persistence
+- [Competitive Coding](https://github.com/vishtodev/Competitive-Coding): Java solutions to algorithm and number-theory problems
 
 </details>
+
+<img src="./assets/section-divider.svg" width="100%" alt=""/>
 
 ## `04` — Tech stack
 
 <div align="center">
 
-**AI / ML / Data**
+**AI, ML & vision**
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy" alt="Python, PyTorch, TensorFlow, OpenCV and NumPy"/>
 
-**Languages / Development**
+`YOLOv8` &nbsp; `MediaPipe` &nbsp; `Qiskit`
 
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode" alt="Java, Git, GitHub and VS Code"/>
-
-**Embedded / Applications**
+**Embedded, apps & hardware**
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,flutter" alt="Arduino, Raspberry Pi and Flutter"/>
 
-**Quantum / Engineering tools**
+`ESP32` &nbsp; `MATLAB` &nbsp; `LTspice` &nbsp; `Cadence Virtuoso` &nbsp; `Keil` &nbsp; `Quartus`
 
-`Qiskit` · `ESP32` · `MATLAB` · `LTspice` · `Cadence Virtuoso` · `Keil` · `Quartus`
+**Languages & workflow**
+
+<img src="https://skillicons.dev/icons?i=java,git,github" alt="Java, Git and GitHub"/>
 
 </div>
 
@@ -160,8 +179,8 @@ An ESP32 + MPU6050 wearable with a Flutter companion app for posture monitoring 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishtodev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" alt="GitHub profile statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishtodev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA" alt="Top languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishtodev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" alt="GitHub statistics for vishtodev"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishtodev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA" alt="Most used languages on GitHub"/>
 
 <br/>
 
@@ -169,16 +188,20 @@ An ESP32 + MPU6050 wearable with a Flutter companion app for posture monitoring 
 
 </div>
 
----
+<img src="./assets/section-divider.svg" width="100%" alt=""/>
+
+## `06` — Connect
 
 <div align="center">
 
-### `LET'S BUILD WHAT'S NEXT`
-
-*From qubits to tokens to real-world intelligence.*
-
 <a href="https://github.com/vishtodev">
-  <img src="https://img.shields.io/badge/Explore_my_work-111827?style=for-the-badge&logo=github" alt="Explore my work"/>
+  <img src="https://img.shields.io/badge/GitHub-vishtodev-111827?style=for-the-badge&logo=github" alt="GitHub profile: vishtodev"/>
 </a>
+
+<!-- Add your LinkedIn profile URL here as another badge or link; the previous badge pointed to the generic linkedin.com homepage. -->
+
+<br/>
+
+### `FROM QUBITS TO TOKENS TO REAL-WORLD INTELLIGENCE`
 
 </div>
