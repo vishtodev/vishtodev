@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="./assets/header-banner.svg" width="100%" alt="Vishal — language models, perception, computation"/>
+<img src="./assets/header-banner.svg" width="100%" alt="Vishal — quantum computing, LLMs, and perception"/>
 
 </div>
 
-I build machine-learning systems that learn from **speech, images, and sensor data**. Alongside applied AI, I’m exploring **quantum computing and quantum machine learning**.
+I build machine-learning systems that learn from **speech, images, and sensor data**. I’m also exploring **quantum computing and quantum machine learning**.
 
 <img src="./assets/section-divider.svg" width="100%" alt=""/>
 
-## Research directions
+## Research interests
 
-| Area | What I’m interested in |
+| Field | Topics |
 |:--|:--|
-| **Quantum computing** | Quantum algorithms and quantum machine learning |
-| **Language & multimodal models** | LLMs, transformers, speech–language systems |
-| **Perception** | Computer vision, remote sensing, speech emotion |
-| **Edge intelligence** | Sensor data, embedded systems, practical deployment |
+| **Quantum computing** | Quantum algorithms · Quantum machine learning |
+| **LLMs & multimodal AI** | Transformers · Speech-language systems · Multimodal learning |
+| **Perception** | Computer vision · Remote sensing · Speech emotion |
+| **Edge AI** | Sensor data · Embedded systems · On-device intelligence |
 
 ## Selected work
 
@@ -25,18 +25,18 @@ I build machine-learning systems that learn from **speech, images, and sensor da
 
 ### EmotionFusionNet
 
-A speech emotion recognition research model combining WavLM with complementary spectrogram and acoustic representations. Evaluated on CREMA-D using a speaker-independent split.
+A five-stream speech emotion recognition model combining fine-tuned WavLM, Mel and magnitude spectrograms, handcrafted acoustic features, and RMS envelope representations.
 
-**77.33%** test accuracy · **0.772** weighted F1
+**77.33%** accuracy · **0.772** weighted F1 · **77.67%** UAR
 
-<sub>Research manuscript in preparation; code not public yet.</sub>
+<sub>CREMA-D · speaker-independent evaluation across 91 actors · manuscript in preparation</sub>
 
 </td>
 <td width="50%" valign="top">
 
 ### ToLCV risk assessment
 
-A data foundation for a planned multi-node whitefly and Tomato Leaf Curl Virus forecasting system. Includes data schemas, provenance tracking, weather ingestion, temporal alignment, and isolated synthetic test data.
+A data foundation for a planned multi-node whitefly and Tomato Leaf Curl Virus forecasting system. Includes data schemas, provenance tracking, weather ingestion, and temporal alignment.
 
 `Python` · `Data pipelines` · `IoT`
 
@@ -68,27 +68,15 @@ A custom PyTorch U-Net for building segmentation on the Massachusetts Buildings 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
-### Smart posture monitor
+### Embedded system
 
-An MPU6050-based posture monitor with a mobile app for posture events, sensitivity modes, and weekly analytics. The repository documents ESP8266 / NodeMCU hardware.
+**Smart posture monitor** — an MPU6050-based posture tracker with a Flutter app for posture events, sensitivity modes, and weekly analytics. The repository documents ESP8266 / NodeMCU hardware.
 
 `Flutter` · `MPU6050` · `ESP8266` · `BLE`
 
 [Repository ↗](https://github.com/vishtodev/Smart-Sitting-Posture-Tracker)
-
-</td>
-<td width="50%" valign="top">
-
-### Building beyond the notebook
-
-I’m interested in the full path from a model or algorithm to a system: data collection, evaluation, integration, and deployment on constrained hardware.
-
-</td>
-</tr>
-</table>
 
 <img src="./assets/section-divider.svg" width="100%" alt=""/>
 
@@ -100,10 +88,10 @@ I’m interested in the full path from a model or algorithm to a system: data co
 
 </div>
 
-<sub>Exploring quantum software with Qiskit and modern language-model tooling.</sub>
+<sub>Exploring quantum software with Qiskit and modern LLM tooling.</sub>
 
 <div align="center">
 
-[GitHub](https://github.com/vishtodev) &nbsp; / &nbsp; `vishtodev`
+[GitHub](https://github.com/vishtodev) · `vishtodev`
 
 </div>
