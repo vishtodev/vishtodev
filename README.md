@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="./assets/header-banner.svg" width="100%" alt="Vishal R. | Quantum AI and language systems"/>
+<img src="./assets/header-banner.svg" width="100%" alt="Vishal R. — Quantum computing, language models and signal systems"/>
 
 <br/>
 
-<a href="https://github.com/vishtodev">
-  <img src="./assets/quantum-llm-emblem.svg" width="132" alt="Abstract quantum state and language-model emblem"/>
-</a>
+<img src="./assets/quantum-llm-emblem.svg" width="148" alt="Abstract qubit-to-token emblem"/>
 
-### VISHAL R. / SYSTEMS & RESEARCH
+### VISHAL R. / RESEARCH & SYSTEMS
 
-**ECE undergraduate · VIT Chennai**
+**B.Tech · Electronics & Communication Engineering · VIT Chennai**
 
-<code>QUANTUM COMPUTING</code> &nbsp; <code>LLMs</code> &nbsp; <code>MULTIMODAL AI</code> &nbsp; <code>COMPUTER VISION</code> &nbsp; <code>EDGE INTELLIGENCE</code>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=%24+exploring+quantum+computing+%2B+modern+AI;%24+studying+LLMs+and+multimodal+systems;%24+building+vision%2C+speech+and+edge+AI;%24+turning+ideas+into+testable+systems" alt="Terminal-style introduction"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=820&lines=%3E+mapping+quantum+ideas+to+computational+systems;%3E+exploring+the+mechanics+of+LLMs+and+multimodal+models;%3E+building+research+prototypes+across+vision%2C+speech+%26+edge+AI;%3E+learning+in+public+%E2%80%94+one+experiment+at+a+time" alt="Research terminal typing animation"/>
+<code>QUANTUM</code> &nbsp; <code>LANGUAGE</code> &nbsp; <code>PERCEPTION</code> &nbsp; <code>EDGE</code>
 
 </div>
 
@@ -22,40 +20,38 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="56%" valign="top">
 
-## 00 / OPERATOR PROFILE
+## 00 / FIELD ID
 
-I'm an Electronics and Communication Engineering student exploring intelligent systems from two complementary directions: **emerging computation** (quantum computing and language models) and **real-world deployment** (vision, speech, sensors and edge devices).
+I’m an ECE student interested in the boundary between **emerging computation** and **intelligent systems in the real world**.
 
-I enjoy the full research loop: framing a question, building a baseline, testing an idea, analysing failure cases and turning the result into a working system.
+My work moves across speech, vision, sensor data and embedded prototypes. I’m drawn to research that goes beyond a model checkpoint: understanding the method, testing it carefully and building the system around it.
 
 </td>
-<td width="42%" valign="top">
+<td width="44%" valign="top">
 
-## 01 / LIVE CONTEXT
+## 01 / ACTIVE FREQUENCIES
 
-```yaml
-identity: Vishal R.
-base: VIT Chennai
-degree: B.Tech / ECE
+```text
+[ Q ]  Quantum computing
+      Quantum ML / algorithms
 
-research:
-  - quantum machine learning
-  - LLMs and multimodal AI
-  - speech and computer vision
+[ L ]  Language systems
+      LLMs / multimodal AI
 
-build:
-  - edge intelligence
-  - embedded systems
-  - applied deep learning
+[ P ]  Perception
+      Speech / vision / remote sensing
+
+[ E ]  Edge systems
+      Embedded / IoT / deployment
 ```
 
 </td>
 </tr>
 </table>
 
-## 02 / RESEARCH RADAR
+## 02 / RESEARCH SIGNAL
 
 <table>
 <tr>
@@ -63,141 +59,141 @@ build:
 
 <div align="center">
 
-**[ Q ] QUANTUM**
+### Q / QUANTUM
 
-<img src="https://img.shields.io/badge/STATE-EXPLORING-8B5CF6?style=flat-square&labelColor=111827" alt="Exploring quantum"/>
+<img src="https://img.shields.io/badge/FOCUS-LEARNING-8B5CF6?style=flat-square&labelColor=0B1020" alt="Quantum focus: learning"/>
 
 </div>
 
-Quantum algorithms, quantum machine learning, qubit representations and Qiskit.
+Quantum computing, quantum machine learning, qubit representations and Qiskit.
 
 </td>
 <td width="34%" valign="top">
 
 <div align="center">
 
-**[ L ] LANGUAGE**
+### L / LANGUAGE
 
-<img src="https://img.shields.io/badge/STATE-EXPLORING-06B6D4?style=flat-square&labelColor=111827" alt="Exploring language models"/>
+<img src="https://img.shields.io/badge/FOCUS-EXPLORING-06B6D4?style=flat-square&labelColor=0B1020" alt="Language focus: exploring"/>
 
 </div>
 
-Transformers, LLMs, speech-language systems, multimodal learning and model reliability.
+LLMs, transformers, speech-language systems, multimodal learning and model reliability.
 
 </td>
 <td width="33%" valign="top">
 
 <div align="center">
 
-**[ V ] PERCEPTION**
+### P / PERCEPTION
 
-<img src="https://img.shields.io/badge/STATE-BUILDING-22C55E?style=flat-square&labelColor=111827" alt="Building perception systems"/>
+<img src="https://img.shields.io/badge/FOCUS-BUILDING-22C55E?style=flat-square&labelColor=0B1020" alt="Perception focus: building"/>
 
 </div>
 
-Computer vision, remote sensing, speech analysis, embedded intelligence and AI for science.
+Computer vision, remote sensing, speech analysis, AI for science and edge intelligence.
 
 </td>
 </tr>
 </table>
 
-### CURRENT EXPERIMENTS
+### CURRENT WORK
 
 - **Glacial lake segmentation** — deep-learning research on satellite imagery at the Centre for Cyber Physical Systems (CCPS), VIT Chennai.
 - **Emotion-aware speech research** — combining speech recognition and speech emotion recognition.
-- **Foundations track** — deepening my understanding of quantum computing and modern language models.
+- **Quantum + LLM foundations** — building deeper understanding of the computation behind modern intelligent systems.
 
 <img src="./assets/section-divider.svg" width="100%" alt=""/>
 
-## 03 / SELECTED BUILDS
+## 03 / SYSTEMS INDEX
 
-*Projects are grouped by the kind of system they investigate—not by language or framework.*
+<sub>Selected projects · grouped by the system problem</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 — EmotionFusionNet
+### 01 — ToLCV Risk Assessment
 
-**SPEECH / AFFECTIVE COMPUTING**
+<sub>AGRI-TECH / DATA PIPELINES</sub>
 
-Research work combining speech recognition with speech emotion recognition. Current work in progress; implementation is not yet available in a public repository.
+A multi-node framework for whitefly forecasting and Tomato Leaf Curl Virus risk assessment. The repository documents data schemas, ingestion adapters, SQLite storage and temporal alignment; forecasting milestones are planned.
+
+`Python` `SQLAlchemy` `Raspberry Pi` `IoT`
+
+[OPEN MODULE ↗](https://github.com/vishtodev/ToLCV-Risk-Assessment)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 — Smart Sitting Posture Tracker
+
+<sub>WEARABLE / EDGE SENSING</sub>
+
+A posture monitor using an MPU6050 motion sensor, ESP32 and BLE-connected Flutter app, with sensitivity modes, weekly analytics and an XP-based reward system.
+
+`ESP32` `BLE` `Flutter` `Embedded`
+
+[OPEN MODULE ↗](https://github.com/vishtodev/Smart-Sitting-Posture-Tracker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 — AI Driver Monitoring
+
+<sub>REAL-TIME / COMPUTER VISION</sub>
+
+Detects phone use and eye closure using YOLOv8 and OpenCV, confirms alerts across multiple frames and tracks a running attention score.
+
+`Python` `OpenCV` `YOLOv8` `MediaPipe`
+
+[OPEN MODULE ↗](https://github.com/vishtodev/AI-Driver-Monitoring-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — Building Segmentation / U-Net
+
+<sub>REMOTE SENSING / PIXEL LEARNING</sub>
+
+Custom PyTorch U-Net for building segmentation on the Massachusetts Buildings Dataset, with Focal + Dice loss, mixed-precision training and IoU evaluation.
+
+`PyTorch` `U-Net` `CV` `Remote Sensing`
+
+[OPEN MODULE ↗](https://github.com/vishtodev/Building-segmentation-using-U-Net-architecture-with-PyTorch)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 — EmotionFusionNet
+
+<sub>SPEECH / AFFECTIVE COMPUTING</sub>
+
+Research combining speech recognition with speech emotion recognition. Work in progress; code is not currently available in a public repository.
 
 `Speech AI` `Deep Learning` `Research`
 
 </td>
 <td width="50%" valign="top">
 
-### 02 — ToLCV Risk Assessment
+### 06 — Glacial Lake Segmentation
 
-**AGRI-TECH / SPATIOTEMPORAL SYSTEMS**
-
-A multi-node framework for whitefly forecasting and Tomato Leaf Curl Virus risk assessment. The repository documents data schemas, ingestion adapters, SQLite storage and temporal alignment; forecasting milestones are planned.
-
-`Python` `SQLAlchemy` `Raspberry Pi` `IoT`
-
-[INSPECT REPOSITORY ↗](https://github.com/vishtodev/ToLCV-Risk-Assessment)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 — Glacial Lake Segmentation
-
-**EARTH OBSERVATION / COMPUTER VISION**
+<sub>EARTH OBSERVATION / RESEARCH</sub>
 
 Deep-learning work on glacial lake segmentation from satellite imagery, developed during my CCPS research internship. Work in progress.
 
 `Remote Sensing` `Segmentation` `Deep Learning`
 
 </td>
-<td width="50%" valign="top">
-
-### 04 — Smart Sitting Posture Tracker
-
-**EDGE DEVICE / HUMAN-CENTRED SENSING**
-
-A wearable posture monitor using an MPU6050 motion sensor, ESP32 and BLE-connected Flutter app, with sensitivity modes, weekly analytics and an XP-based reward system.
-
-`ESP32` `BLE` `Flutter` `Embedded`
-
-[INSPECT REPOSITORY ↗](https://github.com/vishtodev/Smart-Sitting-Posture-Tracker)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 05 — AI Driver Monitoring
-
-**REAL-TIME PERCEPTION**
-
-Detects phone use and eye closure using YOLOv8 and OpenCV, confirms alerts across multiple frames and tracks a running attention score.
-
-`Python` `OpenCV` `YOLOv8` `MediaPipe`
-
-[INSPECT REPOSITORY ↗](https://github.com/vishtodev/AI-Driver-Monitoring-System)
-
-</td>
-<td width="50%" valign="top">
-
-### 06 — Building Segmentation / U-Net
-
-**PIXEL-LEVEL LEARNING**
-
-A custom PyTorch U-Net for building segmentation on the Massachusetts Buildings Dataset, using Focal + Dice loss, mixed-precision training and IoU evaluation.
-
-`PyTorch` `U-Net` `Computer Vision` `Remote Sensing`
-
-[INSPECT REPOSITORY ↗](https://github.com/vishtodev/Building-segmentation-using-U-Net-architecture-with-PyTorch)
-
-</td>
 </tr>
 </table>
 
 <details>
-<summary><b>MORE MODULES / OTHER BUILDS</b></summary>
+<summary><b>OTHER BUILDS / OPEN THE ARCHIVE</b></summary>
 
 - [MechFlight](https://github.com/vishtodev/mechflight) — 2D side-scrolling game built with Python, Pygame and MySQL score persistence.
 - [Competitive Coding](https://github.com/vishtodev/Competitive-Coding) — Java solutions to algorithmic and number-theory problems.
@@ -206,42 +202,42 @@ A custom PyTorch U-Net for building segmentation on the Massachusetts Buildings 
 
 <img src="./assets/section-divider.svg" width="100%" alt=""/>
 
-## 04 / TOOLCHAIN
+## 04 / TOOLKIT
 
 <div align="center">
 
-**COMPUTE · MODELLING · PERCEPTION**
+**MODEL & DATA**
 
 <img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,opencv,numpy" alt="Python, Java, PyTorch, TensorFlow, OpenCV and NumPy"/>
 
-**EDGE · EMBEDDED · PROTOTYPING**
+**HARDWARE & INTERFACES**
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,flutter" alt="Arduino, Raspberry Pi and Flutter"/>
 
-**ENGINEERING ENVIRONMENT**
+**ENGINEERING TOOLS**
 
-`Qiskit` &nbsp; `YOLOv8` &nbsp; `MediaPipe` &nbsp; `ESP32` &nbsp; `MATLAB` &nbsp; `LTspice` &nbsp; `Cadence Virtuoso` &nbsp; `Keil` &nbsp; `Quartus`
+<code>Qiskit</code> &nbsp; <code>YOLOv8</code> &nbsp; <code>MediaPipe</code> &nbsp; <code>ESP32</code> &nbsp; <code>MATLAB</code> &nbsp; <code>LTspice</code> &nbsp; <code>Cadence Virtuoso</code> &nbsp; <code>Keil</code> &nbsp; <code>Quartus</code>
 
-**VERSION CONTROL & WORKFLOW**
+**WORKFLOW**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
 
 </div>
 
-## 05 / GITHUB TELEMETRY
+## 05 / REPO TELEMETRY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishtodev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8" alt="GitHub profile statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishtodev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA" alt="Top languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishtodev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0B1020&title_color=C4B5FD&icon_color=67E8F9" alt="GitHub profile statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishtodev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1020&title_color=C4B5FD" alt="Top languages"/>
 
 <br/>
 
-<img width="78%" src="https://streak-stats.demolab.com?user=vishtodev&hide_border=true&theme=tokyonight&background=0D1117&ring=A78BFA&fire=38BDF8" alt="GitHub contribution streak"/>
+<img width="78%" src="https://streak-stats.demolab.com?user=vishtodev&hide_border=true&theme=tokyonight&background=0B1020&ring=C4B5FD&fire=67E8F9" alt="GitHub contribution streak"/>
 
 </div>
 
-<sub>Stats and language summaries are supplied by external services and may occasionally be unavailable or rate-limited.</sub>
+<sub>External telemetry widgets can be temporarily rate-limited.</sub>
 
 <img src="./assets/section-divider.svg" width="100%" alt=""/>
 
@@ -249,14 +245,14 @@ A custom PyTorch U-Net for building segmentation on the Massachusetts Buildings 
 
 <div align="center">
 
-Interested in meaningful conversations around **Quantum Computing · LLMs · Multimodal AI · Research Engineering**.
+I’m interested in conversations around **Quantum Computing · LLMs · Multimodal AI · Research Engineering**.
 
-<a href="https://github.com/vishtodev"><img src="https://img.shields.io/badge/GITHUB-vishtodev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: vishtodev"/></a>
+<a href="https://github.com/vishtodev"><img src="https://img.shields.io/badge/OPEN_GITHUB-vishtodev-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile: vishtodev"/></a>
 
 <br/>
 
-### `FROM QUBITS TO TOKENS — BUILDING SYSTEMS THAT MATTER.`
+### `QUBITS → TOKENS → SIGNALS`
 
-<sub>./end_of_readme · more experiments loading</sub>
+<sub>research console / online</sub>
 
 </div>
